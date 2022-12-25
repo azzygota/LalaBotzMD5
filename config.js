@@ -46,32 +46,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig1 = 'https://wa.me/6285752235008?text=_Assalamualaikum+🙏🏻_'
-global.sig = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.sgc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
+global.sig1 = 'https://wa.me/6289513081052?text=_Assalamualaikum+🙏🏻_'
+global.sig = 'https://www.instagram.com/p/CmjLMxjDyo6/?igshid=YmE3OTBmZTA='
+global.sgh = 'https://www.instagram.com/p/CmjLMxjDyo6/?igshid=YmE3OTBmZTA='
+global.sgc = 'https://www.instagram.com/p/CmjLMxjDyo6/?igshid=YmE3OTBmZTA='
+global.sdc = 'https://www.instagram.com/p/CmjLMxjDyo6/?igshid=YmE3OTBmZTA='
+global.snh = 'https://www.instagram.com/p/CmjLMxjDyo6/?igshid=YmE3OTBmZTA='
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285752235008' //Nomor dana atay gooay kalian
-global.povo = '6285752235008' 
-global.pgopay = '6285752235008'
-global.ppulsa = '6285752235008' // Indosat : kalau gada diganti tanda - aja
-global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
-global.psaweria = 'https://saweria.com'
+global.pdana = '6289513081052' //Nomor dana atay gooay kalian
+global.povo = '-' 
+global.pgopay = '-'
+global.ppulsa = '6285860928363' // Indosat : kalau gada diganti tanda - aja
+global.ppulsa2 = '6289513081052' // tri : kalau gada diganti tanda - aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895323263224'
-global.nomorown = '6285752235008' // nomor owner
-global.namebot = 'Lala BOT'
-global.nameown = '乙モれ. ㉺'
+global.nomorbot = '6285860928363'
+global.nomorown = '6289513081052' // nomor owner
+global.namebot = '𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃'
+global.nameown = '𝕬𝕯_𝕻𝕽𝕰𝕾𝖊𝕿  '
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895323263224', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
-  ['6285752235008', 'Developer Bot', true] //Jangan di Ganti🚫
+  ['6289513081052', '𝙰𝚍𝚛𝚒𝚊𝚗', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['6289513081052', 'Developer Bot', true] //Jangan di Ganti🚫
   ]
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
@@ -115,11 +115,11 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '☪ Lala BotzMD'
-global.botdate = `\n© Lala BOT - ${week}, ${date}\n`//⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}, ${week}, ${date}
+global.wm = '𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃'
+global.botdate = `\n© 𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃 - ${week}, ${date}\n`//⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}, ${week}, ${date}
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `WhatsApp Bot | By 乙モれ. ㉺`
-global.author = '\n© Lala BotzMD'
+global.titlebot = `WhatsApp Bot | By 𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃`
+global.author = '\n© 𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃'
 
 
 /*============== LOGO ==============*/
@@ -169,7 +169,7 @@ global.dmenub2 = '│' //body for info cmd on Default menu
 global.dmenuf = '└──────⭓' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅═┅═❏ *LALA BOT* ❏═┅═┅'
+global.dashmenu = '┅═┅═❏ *𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃* ❏═┅═┅'
 global.cmenut = '┌⭓『' //top
 global.cmenuh = '』' //header
 global.cmenub = '│⭔' //body
@@ -185,8 +185,8 @@ global.htjava = '⭔' //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Lala Bot MD'
-global.stickauth = `By @Yanz_5008`
+global.stickpack = '𝙰𝚍𝚛𝚒𝚊𝚗 𝙱𝙾𝚃'
+global.stickauth = `By @𝙰𝚍𝚛𝚒𝚊𝚗 +6289513081052`
 
 global.multiplier = 38 // The higher, The harder levelup
 
